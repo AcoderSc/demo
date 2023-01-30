@@ -6,5 +6,12 @@ public class UserController {
         System.out.println("你好121212 test");
         System.out.println("你好121212 test");
         System.out.println("你好121212 master");
+        System.out.println("你好121212 master");
+        System.out.println("你好121212 master");
+        System.out.println("你好121212 master");
+        System.out.println("你好121212 master");
+        System.out.println("你好121212 master");
+        System.out.println("你好121212 master");
+        System.out.println("你好121212 master");
     }
 }
